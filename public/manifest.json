@@ -3,7 +3,8 @@
   "short_name": "Soy Enrique",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "browser",
+  "lang": "es-US",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "icons": [{
