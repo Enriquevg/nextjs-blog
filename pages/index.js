@@ -19,6 +19,7 @@ export default function Home({ allPostsData }) {
         <Layout home>
             <Head>
                 <title>Hola Soy kike</title>
+                <script src="//widget.manychat.com/110977814080101.js" async="async"></script>
             </Head>
             <section className={utilStyles.headingMd}>…</section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
